@@ -1,0 +1,14 @@
+D:\Desktop\Money Manager\Entities\bin\Debug\net7.0\Entities.deps.json
+D:\Desktop\Money Manager\Entities\bin\Debug\net7.0\Entities.dll
+D:\Desktop\Money Manager\Entities\bin\Debug\net7.0\Entities.pdb
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\Entities.dll
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\refint\Entities.dll
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\Entities.pdb
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\ref\Entities.dll
+D:\Desktop\Money Manager\Entities\bin\Debug\net7.0\Entities.runtimeconfig.json
+D:\Desktop\Money Manager\Entities\obj\Debug\net7.0\Entities.genruntimeconfig.cache

@@ -1,0 +1,83 @@
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\appsettings.json
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Money Manager.exe
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Money Manager.deps.json
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Money Manager.runtimeconfig.json
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Money Manager.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Money Manager.pdb
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.csproj.AssemblyReference.cache
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.AssemblyInfoInputs.cache
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.AssemblyInfo.cs
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.csproj.CoreCompileInputs.cache
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\staticwebassets\msbuild.Money Manager.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\staticwebassets\msbuild.build.Money Manager.props
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Money Manager.props
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Money Manager.props
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\scopedcss\bundle\Money Manager.styles.css
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.csproj.CopyComplete
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.dll
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\refint\Money Manager.dll
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.pdb
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\Money Manager.genruntimeconfig.cache
+D:\Desktop\Money Manager\Money Manager\obj\Debug\net7.0\ref\Money Manager.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Azure.Core.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Azure.Identity.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Humanizer.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\System.CodeDom.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Entities.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Entities.pdb
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Contracts.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Repository.dll
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Contracts.pdb
+D:\Desktop\Money Manager\Money Manager\bin\Debug\net7.0\Repository.pdb

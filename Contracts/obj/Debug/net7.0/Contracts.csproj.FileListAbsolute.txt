@@ -1,0 +1,15 @@
+D:\Desktop\Money Manager\Contracts\bin\Debug\net7.0\Contracts.deps.json
+D:\Desktop\Money Manager\Contracts\bin\Debug\net7.0\Contracts.dll
+D:\Desktop\Money Manager\Contracts\bin\Debug\net7.0\Contracts.pdb
+D:\Desktop\Money Manager\Contracts\bin\Debug\net7.0\Entities.dll
+D:\Desktop\Money Manager\Contracts\bin\Debug\net7.0\Entities.pdb
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\Contracts.csproj.CopyComplete
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\Contracts.dll
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\Contracts.pdb
+D:\Desktop\Money Manager\Contracts\obj\Debug\net7.0\ref\Contracts.dll
